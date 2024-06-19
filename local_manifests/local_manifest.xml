@@ -2,4 +2,5 @@
 <manifest>
     <project name="Exynos64/recovery_device_samsung_gta3xlwifi" path="device/samsung/gta3xlwifi" revision="android-11" remote="github" />
     <project name="Exynos64/android_kernel_samsung_gta3xlwifi" path="kernel/samsung/gta3xlwifi" revision="recovery-11" remote="github" />
+    <project name="kdrag0n/aarch64-elf-gcc" path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" revision="9.x" remote="github" />
 </manifest>
