@@ -19,7 +19,7 @@
              remote="exynos-64" />
     <project path="kernel/samsung/exynos7885"
              name="Eureka-Kernel-Exynos7885-Q-R-S"
-             remote="exynos-64" revision="R15-Next-gta3xlwifi" />
+             remote="exynos-64" revision="R15-Next_rom-gta3xlwifi" />
     <project path="vendor/samsung"
              name="android_vendor_samsung_exynos7885"
              remote="exynos-64" />
