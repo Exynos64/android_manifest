@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="exynos-64"
+            fetch="https://github.com/Exynos64"
+            revision="recovery-11" />
+
+    <!-- Exynos 64 -->
+    <project path="device/samsung/gta3xlwifi"
+             name="android_device_samsung_gta3xlwifi"
+             remote="exynos-64" />
+</manifest>
